@@ -136,4 +136,8 @@ h1.titulo {
     display: block;
     max-width: 100%;
   }
+
+  header {
+    padding: 30px;
+  }
 }
