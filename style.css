@@ -13,11 +13,11 @@ body {
 
 header {
   border-radius: 4px;
-  padding: 60px;
+  padding: 3.75rem;
   background: #111;
   display: grid;
   justify-items: center;
-  margin: 20px;
+  margin: 1.25rem;
 }
 
 
@@ -33,7 +33,7 @@ li {
 
 a {
   font-weight: lighter;
-  margin: 20px;
+  margin: 1.25rem;
   display: inline-block;
   color: #fff;
   text-decoration: none;
@@ -55,10 +55,10 @@ a:hover {
 }
 
 h1.titulo {
-  padding: 20px;
+  padding: 1.25rem;
   border-radius: 4px;
   background-color: #e6e6e6;
-  margin: 20px;
+  margin: 1.25rem;
   text-align: center;
 }
 
@@ -67,11 +67,11 @@ h1.titulo {
 .item1 {
   color: #111;
   border-radius: 4px;
-  padding: 20px;
+  padding: 1.25rem;
   background-color: #e6e6e6;
   text-align: center;
   grid-column: 1;
-  margin: 20px;
+  margin: 1.25rem;
   transition: .3s;
 }
 
@@ -84,10 +84,10 @@ h1.titulo {
 .item2 {
   color: #111;
   border-radius: 4px;
-  padding: 20px;
+  padding: 1.25rem;
   background-color: #e6e6e6;
   grid-column: 2;
-  margin: 20px;
+  margin: 1.25rem;
   text-align: center;
 }
 
@@ -100,10 +100,10 @@ h1.titulo {
 .item3 {
   color: #111;
   border-radius: 4px;
-  padding: 20px;
+  padding: 1.25rem;
   background-color: #e6e6e6;
   grid-column: 3;
-  margin: 20px;
+  margin: 1.25rem;
   text-align: center;
 }
 
@@ -138,6 +138,6 @@ h1.titulo {
   }
 
   header {
-    padding: 30px;
+    padding: 1.87rem;
   }
 }
