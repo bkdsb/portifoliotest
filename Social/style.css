@@ -73,6 +73,7 @@ h1.titulo {
   grid-column: 1;
   margin: 1.25rem;
   transition: .3s;
+  border: 1px solid transparent;
 }
 
 .item1:hover {
@@ -89,6 +90,7 @@ h1.titulo {
   grid-column: 2;
   margin: 1.25rem;
   text-align: center;
+  border: 1px solid transparent;
 }
 
 .item2:hover {
@@ -105,6 +107,7 @@ h1.titulo {
   grid-column: 3;
   margin: 1.25rem;
   text-align: center;
+  border: 1px solid transparent;
 }
 
 .item3:hover {
