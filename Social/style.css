@@ -5,7 +5,7 @@
 body {
   font-family: JetBrains Mono;
   box-sizing: border-box;
-  background: #bbbbbb;
+  background: #cfcfcf;
   display: grid;
   margin: 0px;
   justify-content: center;
@@ -151,4 +151,16 @@ h1.titulo {
   header {
     padding: 1.87rem;
   }
+}
+
+.fb, .insta {
+  width: 26px;
+}
+
+/* IMPROVISO DE BORDA POR NÃO CONTER IMAGEM IGUAL  */
+
+.git {
+  border-radius: 4px;
+  border: 1.9px solid #000;
+  width: 26px;
 }
