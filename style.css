@@ -116,20 +116,21 @@ h1.titulo {
 }
 
 
-/* .item4 {
+.item4 {
   color: #111;
   border-radius: 4px;
   background-color: #fff;
   padding: 20px;
-  grid-column: 2;
+  grid-column: 1/-1;
   margin: 20px;
   text-align: center;
+  border: 1px solid transparent;
 }
 
 .item4:hover {
   background-color: #fff;
-  border: 1px solid #00ffdd;
-} */
+  border-color:  #00ffdd;
+}
 
 
 /* Solução temporária - criar menu de hambúrguer */
