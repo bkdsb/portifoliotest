@@ -40,6 +40,13 @@ p {
   padding: 0px;
 }
 
+.fb, .insta, .git {
+  display: block;
+  margin: 0 auto;
+  width: 40px;
+  margin-top: 20px;
+}
+
 
 .header {
   display: grid;
@@ -75,9 +82,10 @@ p {
 .item {
   border-radius: 4px;
   border: 2px solid #111;
-  margin: 30px;
   text-align: center;
   transition: .3s;
+  margin: 20px;
+  flex: 1;
 }
 
 .item:hover {
